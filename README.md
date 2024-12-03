@@ -1,6 +1,6 @@
 # RSE002 - Gaurav Khaire
 
-Video: [https://youtu.be/8MSTkoLptsU] <br>
+Video: [https://youtu.be/ChVSlVQo2vI?si=ukW0cJ6NV60_60jO] <br>
 
 I tried to have as less dependencies as possible <br>
 Dependencies: paho-mqtt, matplotlib <br> 
