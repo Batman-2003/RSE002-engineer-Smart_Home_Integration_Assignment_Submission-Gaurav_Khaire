@@ -1,5 +1,7 @@
 # RSE002 - Gaurav Khaire
 
+Video: [https://youtu.be/8MSTkoLptsU] <br>
+
 I tried to have as less dependencies as possible <br>
 Dependencies: paho-mqtt, matplotlib <br> 
 `pip install paho-mqtt matplotlib`<br>
